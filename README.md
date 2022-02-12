@@ -82,7 +82,7 @@ We use t-test here to compare the means of all the lots, as well as to each lot 
 The T tests confirm our belief that something is wrong in Lot3 which needs to be investigated further and may be one of the reasons for the problems that MechaCar is facing.
 
 ## Study Design: MechaCar vs Competition
-For the statistical study to see if MechaCar is not over or underpriced we need to the following metrics 
+For the statistical study to see if MechaCar is not over or underpriced against the competitors we need to the following:
 
 #### Metrics
 Som of the most important metrics are :
@@ -93,9 +93,9 @@ Som of the most important metrics are :
 * safety rating as an independent variable which may affect the price. 
 * Resale value of the car as an independent variable which may affect the price. 
 
-Null hypothesis: MechaCar is fairly priced based on the dependent variables for the same type of model
+**Null hypothesis**: MechaCar is fairly priced based on the dependent variables for the same type of model
 
-Alternative hypothesis: MechaCar is priced over or under priced based on the dependent variables for the same type of model
+**Alternative hypothesis**: MechaCar is priced over or under priced based on the dependent variables for the same type of model
 
 #### statistical test to be performed
 * A multiple linear regression should be used to determine the factors that have the highest correlation with the price or which combination of variables have the greatest impact on price. 
