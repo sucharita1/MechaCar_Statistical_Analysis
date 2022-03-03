@@ -9,10 +9,12 @@ Jeremyhas been selected as the primary Analyst for data analysis on onAutosRUsâ€
 *  Design a Study Comparing the MechaCar to the Competition
 
 ## Resources
-Data: MechaCar_mpg.csv, Suspension_Coil.csv
-Software: R, R Studio 2021.09.2
+* Data: MechaCar_mpg.csv, Suspension_Coil.csv
+* Software: R, R Studio 2021.09.2
 
-The R script for the statistical analysis is [MechaCarChallenge](https://github.com/sucharita1/MechaCar_Statistical_Analysis/blob/20e250a96b8f11592c8e391f0280090e30073502/MechaCarChallenge.R)
+* The R script for the statistical analysis is [MechaCarChallenge](https://github.com/sucharita1/MechaCar_Statistical_Analysis/blob/20e250a96b8f11592c8e391f0280090e30073502/MechaCarChallenge.R)
+
+* Selecting an appropriate statistical test is a must to design a study. [Stats_Test.pdf]() is a great help.
 
 ## Linear Regression to Predict MPG
 The script for the Linear regression is as follows:
